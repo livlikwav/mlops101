@@ -6,6 +6,9 @@ authors = ["Gyeongmin Ha <gaonrudal@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+torch = "^1.8.1"
+torchvision = "^0.9.1"
+torchaudio = "^0.8.1"
 
 [tool.poetry.dev-dependencies]
 
