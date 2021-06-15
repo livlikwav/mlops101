@@ -213,3 +213,6 @@ tags
 [._]*.un~
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,vim,python,jupyternotebooks
+
+# ===== custom gitignore =====
+/pytorch-official-tutorial/data
